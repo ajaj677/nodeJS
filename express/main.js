@@ -14,6 +14,3 @@ app.get("/about", (req, res) => {
 
 app.listen(8000, () => console.log('Servr Started!'))
 
-// const myServer = http.createServer(app);
-
-// myServer.listen(8000, () => console.log('Servr Started!'))
